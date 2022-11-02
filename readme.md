@@ -1,0 +1,1 @@
+My current project is to make a basic recipe website to practice the HMTL knolwedge I have acquired. I plan to demonstrate my knowledge of headers, paragraphs and headings, images and links, as well as nesting. In addition, I will be practicing the use of git and commits using the best practices I learned about.
